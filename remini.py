@@ -4,7 +4,7 @@ from time import sleep
 
 import httpx
 
-API_KEY = "c3llcS_F22cIvRYKcO9XTLZyYReKTNMVKA5EAdqJaQ8-G0XG"
+API_KEY = "Your_Api_key"
 
 # Open the image to upload - change this in order to upload your image
 IMAGE_PATH = "kay.jpg"
